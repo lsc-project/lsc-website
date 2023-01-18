@@ -1,3 +1,61 @@
-title: Welcome!
+title: Welcome
+body-class: homepage
 ----
-<p>Welcome to my site.</p>
+                <section id="introduction" class="wrapper style3">
+                    <div class="title">Introduction</div>
+                    <div class="container">
+                        <div class="row aln-center">
+                            <div class="col-4 col-12-medium">
+                                <section class="highlight">
+                                    <h3>What is LSC?</h3>
+                                    <p style="text-align:justify"><b>LDAP Synchronization Connector</b> synchronize data from any data source including <b>databases</b>, <b>LDAP directories</b> or <b>files</b> by reading, transforming and comparing these data between the source and the target referentials. These connectors can then be used to continuously synchronize a data source to a directory, for a one shot import or just to compare differences.</p>
+                                    <ul class="actions">
+                                        <li><a href="documentation/" class="button style1">Read documentation</a></li>
+                                    </ul>
+                                </section>
+                            </div>
+                            <div class="col-8 col-12-medium">
+                                <section class="highlight">
+                                    <p class="image fit"><img src="images/lsc-sample.png" alt="LSC sample" /></p>
+                                </section>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="features" class="wrapper style2">
+                    <div class="title">Features</div>
+                    <div class="container">
+                        <section id="features">
+                                <div class="feature-list">
+                                    <div class="row">
+                                        <div class="col-6 col-12-medium">
+                                            <section>
+                                                <h3 class="icon solid fa-random">Multiple source connectors</h3>
+                                                <p>Any LDAPv3 server, any database with a JDBC connector, flat files, third parties like Google Apps and anything else you write a connector for.</p>
+                                            </section>
+                                        </div>
+                                        <div class="col-6 col-12-medium">
+                                            <section>
+                                                <h3 class="icon solid fa-book">Extended support for LDAPv3</h3>
+                                                <p>StartTLS, LDAPS, Paged Results, LDAP Sync/Persistent Search, Alias and Referrals.</p>
+                                            </section>
+                                        </div>
+                                        <div class="col-6 col-12-medium">
+                                            <section>
+                                                <h3 class="icon solid fa-file">Advanced attribute manipulation</h3>
+                                                <p>Built-in JavaScript and Groovy engine.</p>
+                                            </section>
+                                        </div>
+                                        <div class="col-6 col-12-medium">
+                                            <section>
+                                                <h3 class="icon solid fa-address-book">Predefined libraries</h3>
+                                                <p>Modules for Active Directory, Passwords hashing, LDAP sub-requests.</p>
+                                            </section>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </sections>
+                    </div>
+                </section>
