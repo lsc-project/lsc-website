@@ -1,0 +1,14 @@
+title: Download
+body-class: no-sidebar
+----
+                <section id="introduction" class="wrapper style1">
+                    <div class="title">LSC core</div>
+                    <div class="container">
+                    </div>
+                </section>
+
+                <section id="introduction" class="wrapper style2">
+                    <div class="title">LSC plugins</div>
+                    <div class="container">
+                    </div>
+                </section>

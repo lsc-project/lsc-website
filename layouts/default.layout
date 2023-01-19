@@ -31,7 +31,11 @@
 
                     <!-- Logo -->
                         <div id="logo">
-                            <p><a href="index.html"><img src="images/lsc_logo.png" alt="LDAP Synchronization Connector" class="image featured centered" style="max-width:800px;margin:auto;"/></a></p>
+                            <!-- tmpl_if name="homepage" -->
+                            <h1><a href="index.html"><img src="images/lsc_logo.png" alt="LDAP Synchronization Connector" class="image featured centered" style="max-width:800px;margin:auto;"/></a></h1>
+                            <!-- tmpl_else -->
+                            <h1><a href="index.html"><img src="images/lsc_logo_400px.png" alt="LDAP Synchronization Connector" class="image featured centered" style="max-width:400px;margin:auto;"/></a></h1>
+                            <!-- /tmpl_if -->
                         </div>
                     <!-- Nav -->
                         <nav id="nav">

@@ -1,5 +1,6 @@
 title: Welcome
 body-class: homepage
+homepage: 1
 ----
                 <section id="introduction" class="wrapper style3">
                     <div class="title">Introduction</div>
@@ -7,7 +8,7 @@ body-class: homepage
                         <div class="row aln-center">
                             <div class="col-4 col-12-medium">
                                 <section class="highlight">
-                                    <h3>What is LSC?</h3>
+                                    <h1 style="text-align:center">What is LSC?</h1>
                                     <p style="text-align:justify"><b>LDAP Synchronization Connector</b> synchronize data from any data source including <b>databases</b>, <b>LDAP directories</b> or <b>files</b> by reading, transforming and comparing these data between the source and the target referentials. These connectors can then be used to continuously synchronize a data source to a directory, for a one shot import or just to compare differences.</p>
                                     <ul class="actions">
                                         <li><a href="documentation/" class="button style1">Read documentation</a></li>
