@@ -1,13 +1,34 @@
 title: Download
 body-class: no-sidebar
+version: 2.1.6
 ----
-                <section id="introduction" class="wrapper style1">
-                    <div class="title">LSC core</div>
-                    <div class="container">
+
+                <section id="core" class="wrapper style1">
+                    <div class="title">LSC core<br />Version <tmpl_var name="version"></div>
+                    <div class="container table-wrapper" style="text-align:center">
+                    <table>
+                    <tr><th>Tarball</th><th>Debian</th><th>RPM</th></tr>
+                    <tr>
+                    <td>
+                        <p><a href="https://lsc-project.org/archives/lsc-core-<tmpl_var name="version">-dist.tar.gz">tar.gz</a><br />
+                        <a href="https://lsc-project.org/archives/lsc-core-<tmpl_var name="version">-dist.zip">zip</a></p>
+                    </td>
+                    <td>
+                        <p><a href="https://lsc-project.org/archives/lsc_<tmpl_var name="version">-1_all.deb">deb</a></p>
+                    </td>
+                    <td>
+                        <p><a href="https://lsc-project.org/archives/lsc-<tmpl_var name="version">-1.el7.noarch.rpm">el7 rpm</a><br />
+                        <a href="https://lsc-project.org/archives/lsc-<tmpl_var name="version">-1.el8.noarch.rpm">el8 rpm</a></p>
+                    </td>
+                    </tr>
+                    </table>
+                    </div>
+                    <div class="container" style="text-align:center">
+                        <p>Check the <a href="documentation/">documentation</a> to install LSC from our Debian and RPM repositories.</p>
                     </div>
                 </section>
 
-                <section id="introduction" class="wrapper style2">
+                <section id="plugins" class="wrapper style2">
                     <div class="title">LSC plugins</div>
                     <div class="container">
                     </div>
