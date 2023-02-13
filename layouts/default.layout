@@ -55,6 +55,7 @@
                 <section id="footer" class="wrapper">
                     <div class="container">
                         <div id="copyright">
+                            <p>LDAP Synchronization Connector, an Open Source provisionning engine</p>
                             <ul>
                                 <li>&copy; LSC Project</li>
                                 <li>Hosted by <a href="https://www.worteks.com"target="_blank">Worteks</a></li>
