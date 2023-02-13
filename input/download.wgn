@@ -1,6 +1,7 @@
 title: Download
 body-class: no-sidebar
 version: 2.1.6
+executable-version: 1.1
 ----
 
                 <section id="core" class="wrapper style1">
@@ -24,12 +25,29 @@ version: 2.1.6
                     </table>
                     </div>
                     <div class="container" style="text-align:center">
-                        <p>Check the <a href="documentation/">documentation</a> to install LSC from our Debian and RPM repositories.</p>
+                        <p>The recommended way is to install LSC from our <a href="https://lsc-project.org/documentation/latest/installation#apt_repository">Debian</a> and <a href="https://lsc-project.org/documentation/latest/installation#yum_repository">RPM</a> repositories.</p>
                     </div>
                 </section>
 
                 <section id="plugins" class="wrapper style2">
-                    <div class="title">LSC plugins</div>
-                    <div class="container">
+                    <div class="title">Most used plugins</div>
+                    <div class="container" style="text-align:center">
+                    <h2>Executable (version <tmpl_var name="executable-version">)</h2>
+                    <p><i>See documentation for <a href="https://lsc-project.org/documentation/plugins/executable">Executable plugin</a></i></p>
+                    <table>
+                    <tr><th>Java archive</th><th>Debian</th><th>RPM</th></tr>
+                    <tr>
+                    <td>
+                        <p><a href="https://lsc-project.org/archives/lsc-executable-plugin-<tmpl_var name="executable-version">.jar">jar</a>
+                    </td>
+                    <td>
+                        <p><a href="https://lsc-project.org/archives/lsc-executable-plugin_<tmpl_var name="executable-version">-1_all.deb">deb</a></p>
+                    </td>
+                    <td>
+                        <p><a href="https://lsc-project.org/archives/lsc-executable-plugin-<tmpl_var name="executable-version">-1.el7.noarch.rpm">el7 rpm</a><br />
+                        <a href="https://lsc-project.org/archives/lsc-executable-plugin-<tmpl_var name="executable-version">-1.el8.noarch.rpm">el8 rpm</a></p>
+                    </td>
+                    </tr>
+                    </table>
                     </div>
                 </section>
