@@ -51,3 +51,11 @@ executable-version: 1.1
                     </table>
                     </div>
                 </section>
+
+                <section id="other" class="wrapper style3">
+                    <div class="title">Other releases</div>
+                    <div class="container" style="text-align:center">
+                    <p>All releases and snapshots are available in the <a href="https://lsc-project.org/archives">archives</a></p>
+                    <p>All available plugins and tools are listed on the <a href="https://github.com/lsc-project">Github LSC project space</a></p>
+                    </div>
+                </section>
