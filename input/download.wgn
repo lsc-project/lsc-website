@@ -50,6 +50,9 @@ executable-version: 1.1
                     </tr>
                     </table>
                     </div>
+                    <div class="container" style="text-align:center">
+                        <p>The recommended way is to install plugins from our <a href="https://lsc-project.org/documentation/latest/installation#apt_repository">Debian</a> and <a href="https://lsc-project.org/documentation/latest/installation#yum_repository">RPM</a> repositories.</p>
+                    </div>
                 </section>
 
                 <section id="other" class="wrapper style3">
