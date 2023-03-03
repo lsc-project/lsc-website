@@ -10,7 +10,7 @@ homepage: 1
                                 <section class="highlight">
                                     <h1 style="text-align:center">What is LSC?</h1>
                                     <p style="text-align:justify"><b>LDAP Synchronization Connector</b> synchronize data from/to any data source including <b>databases</b>, <b>LDAP directories</b> (including Active Directory) or <b>files</b> by reading, transforming and comparing these data between the source and the target referentials. These connectors can then be used to continuously synchronize a data source to a directory, for a one shot import or just to compare differences.</p>
-                                    <p>Usages of <b>LSC</b> can be synchronize identities from HR databse to LDAP enterprise directory, or synchronize accounts and groups between OpenLDAP and Active Directory.</p>
+                                    <p>Usages of <b>LSC</b> can be to synchronize identities from an HR database to an LDAP enterprise directory, or synchronize accounts and groups between OpenLDAP and Active Directory. Much more examples are given in the documentation.</p>
                                     <ul class="actions">
                                         <li><a href="documentation/" class="button style1">Read documentation</a></li>
                                     </ul>
