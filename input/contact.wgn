@@ -1,0 +1,77 @@
+title: Contact
+body-class: left-sidebar
+----
+
+			<!-- Main -->
+				<section id="main" class="wrapper style2">
+					<div class="title"><!-- tmpl_var name="title" --></div>
+					<div class="container">
+						<div class="row gtr-150">
+							<div class="col-4 col-12-medium">
+
+								<!-- Sidebar -->
+									<div id="sidebar">
+										<section class="box">
+											<header>
+												<h2>Quick links</h2>
+											</header>
+                                            <p>Github: <a href="https://github.com/lsc-project" target="_blank">github.com/lsc-project</a></p>
+                                            <p>IRC channel: #lsc-project on <a href="https://libera.chat/" target="_blank">Libera Chat</a></p>
+                                            <p>Mastodon: <a href="https://floss.social/@lsc_project" target="_blank">@lsc_project@floss.social</a></p>
+                                            <p>Twitter: <a href="https://twitter.com/LSC_Project" target="_blank">@LSC_Project</a></p>
+										</section>
+										<section class="box">
+											<header>
+												<h2>Professional Services</h2>
+											</header>
+											<a href="professionalservices.html" class="button style3">Get support</a>
+										</section>
+									</div>
+
+							</div>
+							<div class="col-8 col-12-medium imp-medium">
+
+								<!-- Content -->
+									<div id="content">
+										<article class="box post">
+											<header class="style1">
+												<h2>Mailing lists</h2>
+											</header>
+
+                                    <p>Mailing lists are available on <a href="https://mail.ow2.org/wws" target="_blank">OW2 Sympa server</a>. Subscription is <strong>mandatory</strong> to be allowed to post.</p>
+                                    <hr />
+                                    <h3>Users</h3>
+                                    <p>General discussions and help for LSC</p>
+                                    <a href="https://mail.ow2.org/wws/info/lsc-users" target="_blank" class="button style3">Infos</a>
+                                    <a href="https://mail.ow2.org/wws/subscribe/lsc-users" target="_blank" class="button style1">Subscribe</a>
+                                    <a href="https://mail.ow2.org/wws/arc/lsc-users/" target="_blank" class="button style2">Archives</a>
+                                    <hr />
+                                    <h3>Developers</h3>
+                                    <p>Development and project discussions about LSC</p>
+                                    <a href="https://mail.ow2.org/wws/info/lsc-dev" target="_blank" class="button style3">Infos</a>
+                                    <a href="https://mail.ow2.org/wws/subscribe/lsc-dev" target="_blank" class="button style1">Subscribe</a>
+                                    <a href="https://mail.ow2.org/wws/arc/lsc-dev/" target="_blank" class="button style2">Archives</a>
+                                    <hr />
+                                    <h3>Announces</h3>
+                                    <p>Announcements about LSC</p>
+                                    <a href="https://mail.ow2.org/wws/info/lsc-announces" target="_blank" class="button style3">Infos</a>
+                                    <a href="https://mail.ow2.org/wws/subscribe/lsc-announces" target="_blank" class="button style1">Subscribe</a>
+                                    <a href="https://mail.ow2.org/wws/arc/lsc-announces/" target="_blank" class="button style2">Archives</a>
+                                    <hr />
+                                    <h3>Changes</h3>
+                                    <p>A commit-list that receives all updates to the code and the documentation for LSC</p>
+                                    <a href="https://mail.ow2.org/wws/info/lsc-changes" target="_blank" class="button style3">Infos</a>
+                                    <a href="https://mail.ow2.org/wws/subscribe/lsc-changes" target="_blank" class="button style1">Subscribe</a>
+                                    <a href="https://mail.ow2.org/wws/arc/lsc-changes/" target="_blank" class="button style2">Archives</a>
+                                    <hr />
+
+
+										</article>
+											</div>
+										</div>
+									</div>
+
+							</div>
+						</div>
+					</div>
+				</section>

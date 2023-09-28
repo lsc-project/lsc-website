@@ -1,0 +1,30 @@
+title: Profressional Services
+body-class: no-sidebar
+----
+
+                <section id="list" class="wrapper style2">
+                    <div class="title"><!-- tmpl_var name="title" --></div>
+                    <div class="container">
+
+                    <h2>Worteks</h2>
+                    <p>With its decades of cumulative experience in the areas of free software and open source, <a href="https://www.worteks.com" target="_blank">Worteks</a> deploys its service in a market of expertise and innovation with large companies and administration. Our first ambition ? Advise and satisfy our customers!</p>
+                    <p>We are the <b>main contributor</b> of LSC project.</p>
+                    <p>Contact by <a href="mailto:info@worteks.com">email</a></p>
+
+                    <h2>FusionDirectory</h2>
+                    <p><a href="https://www.fusiondirectory.org/" target="_blank">FusionDirectory</a> is a specialist in OpenLDAP and French Higher Education Research. We are the publisher of FusionDirectory.</p>
+                    <p>We provide consultancy, support and training for a wide range of customers.</p>
+                    <p>You can contact us by <a href="mailto:contact@fusiondirectory.org">email</a> or phone on +32 2 880 97 40 (GMT+1)</p>
+
+                    <h2>Linagora</h2>
+                    <p><a href="https://www.linagora.com" target="_blank">Linagora</a> is a software vendor and professional services provider focused on Open Source Software.</p>
+                    <p>Contact by <a href="mailto:ventes@linagora.com">email</a> or phone on +33 1 46 96 63 63 (GMT+1)</p>
+
+                    </div>
+                </section>
+
+                <section id="join" class="wrapper style1">
+                    <div class="title">Join</div>
+                    <div class="container" style="text-align:center">
+                    <p>If you want your company to be listed here, please <a href="contact.html">contact us</a>.<p>
+                </section>
