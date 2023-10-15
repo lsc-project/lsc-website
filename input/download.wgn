@@ -113,6 +113,8 @@ microsoft-graph-api-version: 1.1
                     <p><a href="https://github.com/lsc-project/lsc-nis-plugin" target="_blank">Github project</a></p>
                     <h2>OBM</h2>
                     <p><a href="https://github.com/lsc-project/lsc-obm-plugin" target="_blank">Github project</a></p>
+                    <h2>OpenPAAS</h2>
+                    <p><a href="https://github.com/lsc-project/lsc-openpaas-plugin" target="_blank">Github project</a></p>
                     </div>
                 </section>
 
