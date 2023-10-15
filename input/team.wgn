@@ -1,0 +1,24 @@
+title: Team
+body-class: no-sidebar
+----
+
+                <section id="core-team" class="wrapper style1">
+                    <div class="title">Core Team</div>
+                    <div class="container" style="text-align:center">
+                    <p><b>David Coutadeur</b>: Integrator, Tests & Q/A</p>
+                    <p><b>Soisik Froger</b>: Main developer</p>
+                    <p><b>Raphaël Ouazana</b>: Main developer</p>
+                    <p><b>Clément Oudot</b>: Integrator, Packager, Tests & Q/A, Community Manager</p>
+                    </div>
+                </section>
+
+                <section id="past-contributors" class="wrapper style2">
+                    <div class="title">Past contributors</div>
+                    <div class="container" style="text-align:center">
+                    <p><b>Sébastien Bahloul</b>: Project founder, Architect, Developer</p>
+                    <p><b>Jonathan Clarke</b>: Developer, Website</p>
+                    <p><b>Thomas Chemineau</b>: Developer, Website design</p>
+                    <p><b>Rémi Kowalski</b>: Developer</p>
+                    <p><b>Rémy-Christophe Schermesser</b>: A real developer who also documents stuff!</p>
+                    </div>
+                </section>
