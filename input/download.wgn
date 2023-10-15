@@ -96,6 +96,16 @@ microsoft-graph-api-version: 1.1
 
                 </section>
 
+                <section id="non-official-plugins" class="wrapper style3">
+                    <div class="title">Non official plugins</div>
+                    <div class="container" style="text-align:center">
+                    <h2>Multi JDBC (source service)</h2>
+                    <p><a href="https://github.com/MSSputnik/lsc-multi-jdbc-src-service" target="_blank">Github project</a></p>
+                    <h2>SCIM2</h2>
+                    <p><a href="https://github.com/giuseppeamato/lsc-scim-plugin" target="_blank">Github project</a></p>
+                    </div>
+                </section>
+
                 <section id="other" class="wrapper style3">
                     <div class="title">Other releases</div>
                     <div class="container" style="text-align:center">
