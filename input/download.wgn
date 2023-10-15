@@ -3,6 +3,8 @@ body-class: no-sidebar
 version: 2.1.6
 executable-version: 1.1
 fusiondirectory-version: 1.0
+james-version: 1.0
+microsoft-graph-api-version: 1.1
 ----
 
                 <section id="core" class="wrapper style1">
@@ -30,8 +32,9 @@ fusiondirectory-version: 1.0
                     </div>
                 </section>
 
-                <section id="plugins" class="wrapper style2">
+                <section id="official-plugins" class="wrapper style2">
                     <div class="title">Official plugins</div>
+
                     <div class="container" style="text-align:center">
                     <h2>Executable (version <tmpl_var name="executable-version">)</h2>
                     <p><i>See documentation for <a href="https://github.com/lsc-project/lsc-executable-plugin/blob/master/README.md" target="_blank">Executable plugin</a></i></p>
@@ -60,6 +63,32 @@ fusiondirectory-version: 1.0
                     <tr>
                     <td>
                         <p><a href="https://lsc-project.org/archives/lsc-fusiondirectory-plugin-<tmpl_var name="fusiondirectory-version">.jar">jar</a>
+                    </td>
+                    </tr>
+                    </table>
+                    </div>
+
+                    <div class="container" style="text-align:center">
+                    <h2>James (version <tmpl_var name="james-version">)</h2>
+                    <p><i>See documentation for <a href="https://github.com/lsc-project/lsc-james-plugin/blob/master/README.md" target="_blank">James plugin</a></i></p>
+                    <table>
+                    <tr><th>Java archive</th></tr>
+                    <tr>
+                    <td>
+                        <p><a href="https://lsc-project.org/archives/lsc-james-plugin-<tmpl_var name="james-version">.jar">jar</a>
+                    </td>
+                    </tr>
+                    </table>
+                    </div>
+
+                    <div class="container" style="text-align:center">
+                    <h2>Microsoft Graph API (version <tmpl_var name="microsoft-graph-api-version">)</h2>
+                    <p><i>See documentation for <a href="https://github.com/lsc-project/lsc-microsoft-graph-api-plugin/blob/master/README.md" target="_blank">Microsoft Graph API plugin</a></i></p>
+                    <table>
+                    <tr><th>Java archive</th></tr>
+                    <tr>
+                    <td>
+                        <p><a href="https://lsc-project.org/archives/lsc-microsoft-graph-api-plugin-<tmpl_var name="microsoft-graph-api-version">.jar">jar</a>
                     </td>
                     </tr>
                     </table>
