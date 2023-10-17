@@ -26,6 +26,12 @@ body-class: left-sidebar
 											</header>
 											<a href="professionalservices.html" class="button style3">Get support</a>
 										</section>
+										<section class="box">
+											<header>
+												<h2>References</h2>
+											</header>
+											<a href="references.html" class="button style2">Who is using LSC?</a>
+										</section>
 									</div>
 
 							</div>

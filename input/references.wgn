@@ -1,0 +1,47 @@
+title: References
+body-class: no-sidebar
+----
+
+                <section id="references" class="wrapper style2">
+                    <div class="title">Referencess</div>
+
+                    <div class="container" style="text-align:center">
+                        <p>If you are using LSC, we would happy to add you in this list! Please join us on the <a href="contact.html">LSC users mailing list</a>.</p>
+                    </div>
+
+                    <div class="container">
+                    <h2>BPI</h2>
+                    <p><a href="https://www.bpi.fr/" target="_blank">Bibiotheque Centre Pompidou Publique d&#039;Information</a> uses LSC to generate their main directory from different data sources including CSV files.</p>
+                    </div>
+
+                    <div class="container">
+                    <h2>Lapeyre</h2>
+                    <p><a href="https://www.lapeyre.fr/" target="_blank">Lapeyre</a> uses LSC to generate its main directory from different data sources, including human resources system.</p>
+                    </div>
+
+                    <div class="container">
+                    <h2>Sagem Communications</h2>
+                    <p><a href="https://www.sagem-communications.com/" target="_blank">Sagem Communications</a> uses the LSC to generate a duplicated OpenLDAP structure from their primary Active Directory.</p>
+                    </div>
+
+                    <div class="container">
+                    <h2>Stuttgart State Academy of Art and Design</h2>
+                    <p><a href="https://www.abk-stuttgart.de/" target="_blank">Stuttgart State Academy of Art and Design</a> synchronize all students and employees account data to an OpenLDAP, which feeds many different systems like mailserver, fileserver and so on...</p>
+                    </div>
+
+                    <div class="container">
+                    <h2>UPMC</h2>
+                    <p><a href="https://www.upmc.fr/" target="_blank">Université Pierre et Marie Curie</a> uses LSC to generate and maintain their complex directory. This includes querying a specific Oracle client / server application database, and results in over 250 000 objects.</p>
+                    </div>
+
+                    <div class="container">
+                    <h2>United Nations</h2>
+                    <p><a href="https://www.un.org/" target="_blank">United Nations</a> is using it for almost two years to sync AD, LDAP and different RDBMS back and forth. It&#039;s more or less 60.000 entries that are synced daily.</p>
+                    </div>
+
+                    <div class="container">
+                    <h2>Ville de Villeurbanne</h2>
+                    <p><a href="https://villeurbanne.fr/" target="_blank">Ville de Villeurbanne</a> is using LSC to sync users and groups from Active Directory to OpenLDAP.</p>
+                    </div>
+
+                </section>
