@@ -1,10 +1,10 @@
 title: Download
 body-class: no-sidebar
-version: 2.1.6
-executable-version: 1.1
-fusiondirectory-version: 1.0
-james-version: 1.0
-microsoft-graph-api-version: 1.1
+version: 2.2
+executable-version: 1.2
+fusiondirectory-version: 1.1
+james-version: 1.1
+microsoft-graph-api-version: 1.2
 ----
 
                 <section id="core" class="wrapper style1">
@@ -21,8 +21,8 @@ microsoft-graph-api-version: 1.1
                         <p><a href="https://lsc-project.org/archives/lsc_<tmpl_var name="version">-1_all.deb">deb</a></p>
                     </td>
                     <td>
-                        <p><a href="https://lsc-project.org/archives/lsc-<tmpl_var name="version">-1.el7.noarch.rpm">el7 rpm</a><br />
-                        <a href="https://lsc-project.org/archives/lsc-<tmpl_var name="version">-1.el8.noarch.rpm">el8 rpm</a></p>
+                        <a href="https://lsc-project.org/archives/lsc-<tmpl_var name="version">-1.el8.noarch.rpm"EL8 rpm</a></p>
+                        <p><a href="https://lsc-project.org/archives/lsc-<tmpl_var name="version">-1.el9.noarch.rpm">EL9 rpm</a><br />
                     </td>
                     </tr>
                     </table>
@@ -48,8 +48,8 @@ microsoft-graph-api-version: 1.1
                         <p><a href="https://lsc-project.org/archives/lsc-executable-plugin_<tmpl_var name="executable-version">-1_all.deb">deb</a></p>
                     </td>
                     <td>
-                        <p><a href="https://lsc-project.org/archives/lsc-executable-plugin-<tmpl_var name="executable-version">-1.el7.noarch.rpm">el7 rpm</a><br />
-                        <a href="https://lsc-project.org/archives/lsc-executable-plugin-<tmpl_var name="executable-version">-1.el8.noarch.rpm">el8 rpm</a></p>
+                        <a href="https://lsc-project.org/archives/lsc-executable-plugin-<tmpl_var name="executable-version">-1.el8.noarch.rpm">EL8 rpm</a></p>
+                        <p><a href="https://lsc-project.org/archives/lsc-executable-plugin-<tmpl_var name="executable-version">-1.el9.noarch.rpm">EL9 rpm</a><br />
                     </td>
                     </tr>
                     </table>
