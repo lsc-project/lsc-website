@@ -1,6 +1,6 @@
 title: Download
 body-class: no-sidebar
-version: 2.2
+version: 2.2.1
 executable-version: 1.2
 fusiondirectory-version: 1.1
 james-version: 1.1
@@ -21,7 +21,7 @@ microsoft-graph-api-version: 1.2
                         <p><a href="https://lsc-project.org/archives/lsc_<tmpl_var name="version">-1_all.deb">deb</a></p>
                     </td>
                     <td>
-                        <a href="https://lsc-project.org/archives/lsc-<tmpl_var name="version">-1.el8.noarch.rpm"EL8 rpm</a></p>
+                        <a href="https://lsc-project.org/archives/lsc-<tmpl_var name="version">-1.el8.noarch.rpm">EL8 rpm</a></p>
                         <p><a href="https://lsc-project.org/archives/lsc-<tmpl_var name="version">-1.el9.noarch.rpm">EL9 rpm</a><br />
                     </td>
                     </tr>
@@ -29,6 +29,12 @@ microsoft-graph-api-version: 1.2
                     </div>
                     <div class="container" style="text-align:center">
                         <p>The recommended way is to install LSC from our <a href="/documentation/latest/installation.html#apt-repository">Debian</a> and <a href="/documentation/latest/installation.html#yum-repository">RPM</a> repositories.</p>
+                    </div>
+                    <div class="container" style="text-align:center">
+                        <h2>Monitoring (Nagios plugins)</h2>
+                        <p><a href="https://lsc-project.org/archives/nagios-plugins-lsc-<tmpl_var name="version">-1_all.deb">deb</a><br />
+                        <a href="https://lsc-project.org/archives/nagios-plugins-lsc-<tmpl_var name="version">-1.el8.noarch.rpm">EL8 rpm</a><br />
+                        <a href="https://lsc-project.org/archives/nagios-plugins-lsc-<tmpl_var name="version">-1.el9.noarch.rpm">EL9 rpm</a></p>
                     </div>
                 </section>
 
