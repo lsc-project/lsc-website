@@ -21,8 +21,8 @@ microsoft-graph-api-version: 1.2
                         <p><a href="https://lsc-project.org/archives/lsc_<tmpl_var name="version">-1_all.deb">deb</a></p>
                     </td>
                     <td>
-                        <a href="https://lsc-project.org/archives/lsc-<tmpl_var name="version">-1.el8.noarch.rpm">EL8 rpm</a></p>
-                        <p><a href="https://lsc-project.org/archives/lsc-<tmpl_var name="version">-1.el9.noarch.rpm">EL9 rpm</a><br />
+                        <p><a href="https://lsc-project.org/archives/lsc-<tmpl_var name="version">-1.el8.noarch.rpm">EL8 rpm</a><br />
+                        <a href="https://lsc-project.org/archives/lsc-<tmpl_var name="version">-1.el9.noarch.rpm">EL9 rpm</a></p>
                     </td>
                     </tr>
                     </table>
@@ -54,8 +54,8 @@ microsoft-graph-api-version: 1.2
                         <p><a href="https://lsc-project.org/archives/lsc-executable-plugin_<tmpl_var name="executable-version">-1_all.deb">deb</a></p>
                     </td>
                     <td>
-                        <a href="https://lsc-project.org/archives/lsc-executable-plugin-<tmpl_var name="executable-version">-1.el8.noarch.rpm">EL8 rpm</a></p>
-                        <p><a href="https://lsc-project.org/archives/lsc-executable-plugin-<tmpl_var name="executable-version">-1.el9.noarch.rpm">EL9 rpm</a><br />
+                        <p><a href="https://lsc-project.org/archives/lsc-executable-plugin-<tmpl_var name="executable-version">-1.el8.noarch.rpm">EL8 rpm</a><br />
+                        <a href="https://lsc-project.org/archives/lsc-executable-plugin-<tmpl_var name="executable-version">-1.el9.noarch.rpm">EL9 rpm</a></p>
                     </td>
                     </tr>
                     </table>
