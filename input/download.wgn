@@ -22,7 +22,8 @@ microsoft-graph-api-version: 1.3
                     </td>
                     <td>
                         <p><a href="https://lsc-project.org/archives/lsc-<tmpl_var name="version">-1.el8.noarch.rpm">EL8 rpm</a><br />
-                        <a href="https://lsc-project.org/archives/lsc-<tmpl_var name="version">-1.el9.noarch.rpm">EL9 rpm</a></p>
+                        <a href="https://lsc-project.org/archives/lsc-<tmpl_var name="version">-1.el9.noarch.rpm">EL9 rpm</a><br />
+                        <a href="https://lsc-project.org/archives/lsc-<tmpl_var name="version">-1.el10.noarch.rpm">EL10 rpm</a></p>
                     </td>
                     </tr>
                     </table>
@@ -34,7 +35,8 @@ microsoft-graph-api-version: 1.3
                         <h2>Monitoring (Nagios plugins)</h2>
                         <p><a href="https://lsc-project.org/archives/nagios-plugins-lsc-<tmpl_var name="version">-1_all.deb">deb</a><br />
                         <a href="https://lsc-project.org/archives/nagios-plugins-lsc-<tmpl_var name="version">-1.el8.noarch.rpm">EL8 rpm</a><br />
-                        <a href="https://lsc-project.org/archives/nagios-plugins-lsc-<tmpl_var name="version">-1.el9.noarch.rpm">EL9 rpm</a></p>
+                        <a href="https://lsc-project.org/archives/nagios-plugins-lsc-<tmpl_var name="version">-1.el9.noarch.rpm">EL9 rpm</a><br />
+                        <a href="https://lsc-project.org/archives/nagios-plugins-lsc-<tmpl_var name="version">-1.el10.noarch.rpm">EL10 rpm</a></p>
                     </div>
                 </section>
 
@@ -55,7 +57,8 @@ microsoft-graph-api-version: 1.3
                     </td>
                     <td>
                         <p><a href="https://lsc-project.org/archives/lsc-executable-plugin-<tmpl_var name="executable-version">-1.el8.noarch.rpm">EL8 rpm</a><br />
-                        <a href="https://lsc-project.org/archives/lsc-executable-plugin-<tmpl_var name="executable-version">-1.el9.noarch.rpm">EL9 rpm</a></p>
+                        <a href="https://lsc-project.org/archives/lsc-executable-plugin-<tmpl_var name="executable-version">-1.el9.noarch.rpm">EL9 rpm</a><br />
+                        <a href="https://lsc-project.org/archives/lsc-executable-plugin-<tmpl_var name="executable-version">-1.el10.noarch.rpm">EL10 rpm</a></p>
                     </td>
                     </tr>
                     </table>
@@ -65,10 +68,18 @@ microsoft-graph-api-version: 1.3
                     <h2>Fusion Directory (version <tmpl_var name="fusiondirectory-version">)</h2>
                     <p><i>See documentation for <a href="https://github.com/lsc-project/lsc-fusiondirectory-plugin/blob/master/README.md" target="_blank">Fusion Directory plugin</a></i></p>
                     <table>
-                    <tr><th>Java archive</th></tr>
+                    <tr><th>Java archive</th><th>Debian</th><th>RPM</th></tr>
                     <tr>
                     <td>
                         <p><a href="https://lsc-project.org/archives/lsc-fusiondirectory-plugin-<tmpl_var name="fusiondirectory-version">-distribution.jar">jar</a>
+                    </td>
+                    <td>
+                        <p><a href="https://lsc-project.org/archives/lsc-fusiondirectory-plugin_<tmpl_var name="fusiondirectory-version">-1_all.deb">deb</a></p>
+                    </td>
+                    <td>
+                        <p><a href="https://lsc-project.org/archives/lsc-fusiondirectory-plugin-<tmpl_var name="fusiondirectory-version">-1.el8.noarch.rpm">EL8 rpm</a><br />
+                        <a href="https://lsc-project.org/archives/lsc-fusiondirectory-plugin-<tmpl_var name="fusiondirectory-version">-1.el9.noarch.rpm">EL9 rpm</a><br />
+                        <a href="https://lsc-project.org/archives/lsc-fusiondirectory-plugin-<tmpl_var name="fusiondirectory-version">-1.el10.noarch.rpm">EL10 rpm</a></p>
                     </td>
                     </tr>
                     </table>
